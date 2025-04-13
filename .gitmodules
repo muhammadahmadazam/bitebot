@@ -1,0 +1,9 @@
+[submodule "BiteBot-Backend"]
+	path = BiteBot-Backend
+	url = https://github.com/muhammadahmadazam/BiteBot-Backend.git
+[submodule "bitebot-chat-api"]
+	path = bitebot-chat-api
+	url = https://github.com/d4niy4l/bitebot-chat-api.git
+[submodule "Bite-Bot"]
+	path = Bite-Bot
+	url = https://github.com/d4niy4l/Bite-Bot.git
