@@ -1,6 +1,6 @@
 # Bite Bot
 
-A food ordering system with a nutritional chatbot in react and springboot for SDA Spring 2024
+A food ordering system with a nutritional chatbot in react and springboot for SDA Fall 2024
 
 ## Backend
 
